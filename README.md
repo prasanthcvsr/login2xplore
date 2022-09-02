@@ -1,2 +1,2 @@
-# login2xplore
+# JSONPowerDB
 sample
